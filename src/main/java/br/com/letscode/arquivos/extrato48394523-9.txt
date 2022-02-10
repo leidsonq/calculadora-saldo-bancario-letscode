@@ -1,0 +1,145 @@
+Banco: Santander
+Operação Bancária:
+Operador: Larissa
+Tipo: DEPOSITO
+Valor: 20.0
+Data: 2022-01-17T13:30:28
+Conta: 48394523-9
+Agência: 0186
+
+Banco: Santander
+Operação Bancária:
+Operador: Catarina
+Tipo: SAQUE
+Valor: 140.0
+Data: 2022-01-21T15:37:07
+Conta: 48394523-9
+Agência: 0186
+
+Banco: Santander
+Operação Bancária:
+Operador: Ezequiel
+Tipo: DEPOSITO
+Valor: 80.0
+Data: 2022-01-29T14:56:11
+Conta: 48394523-9
+Agência: 0186
+
+Banco: Santander
+Operação Bancária:
+Operador: Clarissa
+Tipo: DEPOSITO
+Valor: 440.0
+Data: 2022-01-03T15:20:27
+Conta: 48394523-9
+Agência: 0186
+
+Banco: Santander
+Operação Bancária:
+Operador: Flôr
+Tipo: DEPOSITO
+Valor: 20.0
+Data: 2022-01-21T12:37:07
+Conta: 48394523-9
+Agência: 0186
+
+Banco: Santander
+Operação Bancária:
+Operador: Larissa
+Tipo: DEPOSITO
+Valor: 20.0
+Data: 2022-01-17T13:30:28
+Conta: 48394523-9
+Agência: 0186
+
+Banco: Santander
+Operação Bancária:
+Operador: Rebeca
+Tipo: DEPOSITO
+Valor: 80.0
+Data: 2022-01-20T15:43:47
+Conta: 48394523-9
+Agência: 0186
+
+Banco: Santander
+Operação Bancária:
+Operador: Felipe
+Tipo: DEPOSITO
+Valor: 40.0
+Data: 2022-01-20T13:43:47
+Conta: 48394523-9
+Agência: 0186
+
+Banco: Santander
+Operação Bancária:
+Operador: Luiza
+Tipo: SAQUE
+Valor: 60.0
+Data: 2022-01-26T15:53:20
+Conta: 48394523-9
+Agência: 0186
+
+Banco: Santander
+Operação Bancária:
+Operador: Victor
+Tipo: DEPOSITO
+Valor: 200.0
+Data: 2022-01-23T14:32:28
+Conta: 48394523-9
+Agência: 0186
+
+Banco: Santander
+Operação Bancária:
+Operador: Giovanna
+Tipo: DEPOSITO
+Valor: 100.0
+Data: 2022-01-26T12:53:20
+Conta: 48394523-9
+Agência: 0186
+
+Banco: Santander
+Operação Bancária:
+Operador: Ângelo
+Tipo: DEPOSITO
+Valor: 80.0
+Data: 2022-01-20T15:43:47
+Conta: 48394523-9
+Agência: 0186
+
+Banco: Santander
+Operação Bancária:
+Operador: Jade
+Tipo: DEPOSITO
+Valor: 20.0
+Data: 2022-01-07T15:55:53
+Conta: 48394523-9
+Agência: 0186
+
+Banco: Santander
+Operação Bancária:
+Operador: Emanuel
+Tipo: SAQUE
+Valor: 60.0
+Data: 2022-01-26T13:53:20
+Conta: 48394523-9
+Agência: 0186
+
+Banco: Santander
+Operação Bancária:
+Operador: João
+Tipo: SAQUE
+Valor: 60.0
+Data: 2022-01-08T13:18:40
+Conta: 48394523-9
+Agência: 0186
+
+Banco: Santander
+Operação Bancária:
+Operador: Ângelo
+Tipo: DEPOSITO
+Valor: 80.0
+Data: 2022-01-20T15:43:47
+Conta: 48394523-9
+Agência: 0186
+
+Saldo da Conta: 860.0

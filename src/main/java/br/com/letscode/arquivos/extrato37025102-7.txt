@@ -1,0 +1,154 @@
+Banco: Santander
+Operação Bancária:
+Operador: Francisco
+Tipo: SAQUE
+Valor: 520.0
+Data: 2022-01-07T11:36:58
+Conta: 37025102-7
+Agência: 2254
+
+Banco: Santander
+Operação Bancária:
+Operador: Larissa
+Tipo: SAQUE
+Valor: 40.0
+Data: 2022-01-08T15:18:40
+Conta: 37025102-7
+Agência: 2254
+
+Banco: Santander
+Operação Bancária:
+Operador: Bryan
+Tipo: DEPOSITO
+Valor: 100.0
+Data: 2022-01-07T15:55:53
+Conta: 37025102-7
+Agência: 2254
+
+Banco: Santander
+Operação Bancária:
+Operador: Bryan
+Tipo: DEPOSITO
+Valor: 100.0
+Data: 2022-01-07T15:55:53
+Conta: 37025102-7
+Agência: 2254
+
+Banco: Santander
+Operação Bancária:
+Operador: David
+Tipo: DEPOSITO
+Valor: 60.0
+Data: 2022-01-17T12:30:28
+Conta: 37025102-7
+Agência: 2254
+
+Banco: Santander
+Operação Bancária:
+Operador: Matheus
+Tipo: SAQUE
+Valor: 200.0
+Data: 2022-01-23T11:32:28
+Conta: 37025102-7
+Agência: 2254
+
+Banco: Santander
+Operação Bancária:
+Operador: Bryan
+Tipo: DEPOSITO
+Valor: 100.0
+Data: 2022-01-07T15:55:53
+Conta: 37025102-7
+Agência: 2254
+
+Banco: Santander
+Operação Bancária:
+Operador: Francisco
+Tipo: SAQUE
+Valor: 520.0
+Data: 2022-01-07T11:36:58
+Conta: 37025102-7
+Agência: 2254
+
+Banco: Santander
+Operação Bancária:
+Operador: Eduarda
+Tipo: DEPOSITO
+Valor: 380.0
+Data: 2022-01-25T13:22:43
+Conta: 37025102-7
+Agência: 2254
+
+Banco: Santander
+Operação Bancária:
+Operador: Antônio
+Tipo: SAQUE
+Valor: 440.0
+Data: 2022-01-17T15:30:28
+Conta: 37025102-7
+Agência: 2254
+
+Banco: Santander
+Operação Bancária:
+Operador: Francisco
+Tipo: SAQUE
+Valor: 560.0
+Data: 2022-01-07T15:55:53
+Conta: 37025102-7
+Agência: 2254
+
+Banco: Santander
+Operação Bancária:
+Operador: Ângelo
+Tipo: DEPOSITO
+Valor: 20.0
+Data: 2022-01-04T11:24:42
+Conta: 37025102-7
+Agência: 2254
+
+Banco: Santander
+Operação Bancária:
+Operador: Flôr
+Tipo: SAQUE
+Valor: 540.0
+Data: 2022-01-21T15:37:07
+Conta: 37025102-7
+Agência: 2254
+
+Banco: Santander
+Operação Bancária:
+Operador: Frederico
+Tipo: DEPOSITO
+Valor: 80.0
+Data: 2022-01-17T13:30:28
+Conta: 37025102-7
+Agência: 2254
+
+Banco: Santander
+Operação Bancária:
+Operador: Ezequiel
+Tipo: DEPOSITO
+Valor: 60.0
+Data: 2022-01-21T13:42:37
+Conta: 37025102-7
+Agência: 2254
+
+Banco: Santander
+Operação Bancária:
+Operador: Clarissa
+Tipo: DEPOSITO
+Valor: 180.0
+Data: 2022-01-28T12:34:24
+Conta: 37025102-7
+Agência: 2254
+
+Banco: Santander
+Operação Bancária:
+Operador: Frederico
+Tipo: DEPOSITO
+Valor: 80.0
+Data: 2022-01-17T13:30:28
+Conta: 37025102-7
+Agência: 2254
+
+Saldo da Conta: -1660.0

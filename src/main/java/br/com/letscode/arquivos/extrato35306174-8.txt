@@ -1,0 +1,73 @@
+Banco: Santander
+Operação Bancária:
+Operador: Felipe
+Tipo: DEPOSITO
+Valor: 100.0
+Data: 2022-01-04T11:24:42
+Conta: 35306174-8
+Agência: 3121
+
+Banco: Santander
+Operação Bancária:
+Operador: Ingrid
+Tipo: DEPOSITO
+Valor: 100.0
+Data: 2022-01-25T12:22:43
+Conta: 35306174-8
+Agência: 3121
+
+Banco: Santander
+Operação Bancária:
+Operador: João
+Tipo: SAQUE
+Valor: 280.0
+Data: 2022-01-17T14:30:28
+Conta: 35306174-8
+Agência: 3121
+
+Banco: Santander
+Operação Bancária:
+Operador: Felipe
+Tipo: DEPOSITO
+Valor: 100.0
+Data: 2022-01-04T11:24:42
+Conta: 35306174-8
+Agência: 3121
+
+Banco: Santander
+Operação Bancária:
+Operador: Eduarda
+Tipo: SAQUE
+Valor: 20.0
+Data: 2022-01-07T15:36:58
+Conta: 35306174-8
+Agência: 3121
+
+Banco: Santander
+Operação Bancária:
+Operador: Larissa
+Tipo: SAQUE
+Valor: 300.0
+Data: 2022-01-20T15:12:24
+Conta: 35306174-8
+Agência: 3121
+
+Banco: Santander
+Operação Bancária:
+Operador: Miguel
+Tipo: DEPOSITO
+Valor: 360.0
+Data: 2022-01-08T13:18:40
+Conta: 35306174-8
+Agência: 3121
+
+Banco: Santander
+Operação Bancária:
+Operador: Giovanna
+Tipo: DEPOSITO
+Valor: 160.0
+Data: 2022-01-25T14:22:43
+Conta: 35306174-8
+Agência: 3121
+
+Saldo da Conta: 220.0

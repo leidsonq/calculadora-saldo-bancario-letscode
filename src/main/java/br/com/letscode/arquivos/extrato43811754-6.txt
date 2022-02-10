@@ -1,0 +1,100 @@
+Banco: Santander
+Operação Bancária:
+Operador: Ezequiel
+Tipo: SAQUE
+Valor: 360.0
+Data: 2022-01-20T15:12:24
+Conta: 43811754-6
+Agência: 4009
+
+Banco: Santander
+Operação Bancária:
+Operador: Bryan
+Tipo: DEPOSITO
+Valor: 100.0
+Data: 2022-01-20T14:43:47
+Conta: 43811754-6
+Agência: 4009
+
+Banco: Santander
+Operação Bancária:
+Operador: Francisco
+Tipo: DEPOSITO
+Valor: 280.0
+Data: 2022-01-25T13:22:43
+Conta: 43811754-6
+Agência: 4009
+
+Banco: Santander
+Operação Bancária:
+Operador: Ingrid
+Tipo: SAQUE
+Valor: 600.0
+Data: 2022-01-20T13:43:47
+Conta: 43811754-6
+Agência: 4009
+
+Banco: Santander
+Operação Bancária:
+Operador: Catarina
+Tipo: SAQUE
+Valor: 220.0
+Data: 2022-01-25T11:22:43
+Conta: 43811754-6
+Agência: 4009
+
+Banco: Santander
+Operação Bancária:
+Operador: Débora
+Tipo: DEPOSITO
+Valor: 20.0
+Data: 2022-01-20T12:43:47
+Conta: 43811754-6
+Agência: 4009
+
+Banco: Santander
+Operação Bancária:
+Operador: Yuri
+Tipo: DEPOSITO
+Valor: 80.0
+Data: 2022-01-03T12:20:27
+Conta: 43811754-6
+Agência: 4009
+
+Banco: Santander
+Operação Bancária:
+Operador: Milene
+Tipo: DEPOSITO
+Valor: 380.0
+Data: 2022-01-21T11:37:07
+Conta: 43811754-6
+Agência: 4009
+
+Banco: Santander
+Operação Bancária:
+Operador: Theo
+Tipo: SAQUE
+Valor: 60.0
+Data: 2022-01-28T14:34:24
+Conta: 43811754-6
+Agência: 4009
+
+Banco: Santander
+Operação Bancária:
+Operador: Francisco
+Tipo: SAQUE
+Valor: 100.0
+Data: 2022-01-07T13:55:53
+Conta: 43811754-6
+Agência: 4009
+
+Banco: Santander
+Operação Bancária:
+Operador: Bryan
+Tipo: DEPOSITO
+Valor: 420.0
+Data: 2022-01-04T15:24:42
+Conta: 43811754-6
+Agência: 4009
+
+Saldo da Conta: -60.0

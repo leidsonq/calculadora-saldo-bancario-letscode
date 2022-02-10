@@ -1,0 +1,190 @@
+Banco: Santander
+Operação Bancária:
+Operador: Victor
+Tipo: SAQUE
+Valor: 260.0
+Data: 2022-01-08T12:18:40
+Conta: 60214801-9
+Agência: 3381
+
+Banco: Santander
+Operação Bancária:
+Operador: Maitê
+Tipo: DEPOSITO
+Valor: 80.0
+Data: 2022-01-07T15:36:58
+Conta: 60214801-9
+Agência: 3381
+
+Banco: Santander
+Operação Bancária:
+Operador: Leonardo
+Tipo: SAQUE
+Valor: 320.0
+Data: 2022-01-29T12:56:11
+Conta: 60214801-9
+Agência: 3381
+
+Banco: Santander
+Operação Bancária:
+Operador: Juliano
+Tipo: DEPOSITO
+Valor: 100.0
+Data: 2022-01-21T13:37:07
+Conta: 60214801-9
+Agência: 3381
+
+Banco: Santander
+Operação Bancária:
+Operador: Frederico
+Tipo: SAQUE
+Valor: 580.0
+Data: 2022-01-29T13:56:11
+Conta: 60214801-9
+Agência: 3381
+
+Banco: Santander
+Operação Bancária:
+Operador: Ângelo
+Tipo: DEPOSITO
+Valor: 240.0
+Data: 2022-01-08T14:18:40
+Conta: 60214801-9
+Agência: 3381
+
+Banco: Santander
+Operação Bancária:
+Operador: Emanuel
+Tipo: SAQUE
+Valor: 380.0
+Data: 2022-01-28T11:34:24
+Conta: 60214801-9
+Agência: 3381
+
+Banco: Santander
+Operação Bancária:
+Operador: Francisco
+Tipo: DEPOSITO
+Valor: 580.0
+Data: 2022-01-21T14:37:07
+Conta: 60214801-9
+Agência: 3381
+
+Banco: Santander
+Operação Bancária:
+Operador: Luiza
+Tipo: DEPOSITO
+Valor: 600.0
+Data: 2022-01-29T15:56:11
+Conta: 60214801-9
+Agência: 3381
+
+Banco: Santander
+Operação Bancária:
+Operador: Miguel
+Tipo: DEPOSITO
+Valor: 460.0
+Data: 2022-01-04T11:24:42
+Conta: 60214801-9
+Agência: 3381
+
+Banco: Santander
+Operação Bancária:
+Operador: Victor
+Tipo: SAQUE
+Valor: 260.0
+Data: 2022-01-08T12:18:40
+Conta: 60214801-9
+Agência: 3381
+
+Banco: Santander
+Operação Bancária:
+Operador: Maitê
+Tipo: DEPOSITO
+Valor: 80.0
+Data: 2022-01-07T15:36:58
+Conta: 60214801-9
+Agência: 3381
+
+Banco: Santander
+Operação Bancária:
+Operador: Leonardo
+Tipo: SAQUE
+Valor: 320.0
+Data: 2022-01-29T12:56:11
+Conta: 60214801-9
+Agência: 3381
+
+Banco: Santander
+Operação Bancária:
+Operador: Felipe
+Tipo: DEPOSITO
+Valor: 420.0
+Data: 2022-01-21T14:42:37
+Conta: 60214801-9
+Agência: 3381
+
+Banco: Santander
+Operação Bancária:
+Operador: Victor
+Tipo: DEPOSITO
+Valor: 520.0
+Data: 2022-01-20T13:12:24
+Conta: 60214801-9
+Agência: 3381
+
+Banco: Santander
+Operação Bancária:
+Operador: Leonardo
+Tipo: SAQUE
+Valor: 560.0
+Data: 2022-01-20T14:43:47
+Conta: 60214801-9
+Agência: 3381
+
+Banco: Santander
+Operação Bancária:
+Operador: Eduarda
+Tipo: DEPOSITO
+Valor: 280.0
+Data: 2022-01-03T11:20:27
+Conta: 60214801-9
+Agência: 3381
+
+Banco: Santander
+Operação Bancária:
+Operador: Brenda
+Tipo: SAQUE
+Valor: 40.0
+Data: 2022-01-07T14:36:58
+Conta: 60214801-9
+Agência: 3381
+
+Banco: Santander
+Operação Bancária:
+Operador: Ângelo
+Tipo: DEPOSITO
+Valor: 500.0
+Data: 2022-01-29T13:56:11
+Conta: 60214801-9
+Agência: 3381
+
+Banco: Santander
+Operação Bancária:
+Operador: Lucas
+Tipo: SAQUE
+Valor: 580.0
+Data: 2022-01-23T12:32:28
+Conta: 60214801-9
+Agência: 3381
+
+Banco: Santander
+Operação Bancária:
+Operador: Ângelo
+Tipo: DEPOSITO
+Valor: 500.0
+Data: 2022-01-29T13:56:11
+Conta: 60214801-9
+Agência: 3381
+
+Saldo da Conta: 1060.0
